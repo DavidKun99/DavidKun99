@@ -168,34 +168,6 @@ These initiatives represent my interest in combining creativity, engineering and
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidkun99&theme=github_dark"
-  alt="David Acevedo GitHub contribution activity"
-/>
-
-<br><br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidkun99&theme=github_dark"
-  alt="David Acevedo GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidkun99&theme=github_dark"
-  alt="David Acevedo repositories by language"
-/>
-
-</div>
-
----
-
 ## ✨ Personal Values
 
 <div align="center">
